@@ -53,4 +53,4 @@ def send_mail(send_to, file):
         print("Mail sent successfully")
 
 def main():
-    send_mail("give_your_mail_id_here", "trespassers.png")
+    send_mail("give_your_mail_id_here", "trespassers.png") #change your mail id here
