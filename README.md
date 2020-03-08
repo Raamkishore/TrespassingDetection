@@ -6,7 +6,7 @@ Run the below mentioned command in the shell to obtain results.
 
 python app.py -m pedestrian-detection-adas-0002.xml -ct 0.6 -c BLUE
 
-As of now, you can pass a video file as input to detect trespassers. In real time, we can use camera to detect trespassers.
+As of now, you can pass a video file as input to detect trespassers. In real time, we can use camera to detect trespassers. Also, we can have an alarm system to alert security guards around premises.
 
 # Obtained results
 
